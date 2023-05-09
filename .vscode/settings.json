@@ -1,0 +1,56 @@
+{
+    // settaggi generali di prova
+
+    "workbench.statusBar.visible": false,
+    "workbench.editor.showIcons": false,
+    "workbench.editor.openPositioning": "left",
+    "editor.wordWrap": "on" ,
+    "explore.openEditors": 6,
+    "window.zoomLevel": 1,
+    "workbench.editor.showTabs": true,
+    "editor.minimap.enabled": true,
+    "editor.codeLens": false,
+    "workbench.activityBar.visible": false,
+
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+
+    // Zen Mode
+    "zenMode.fullScreen": true,
+    "zenMode.centerLayout": false,
+
+
+    "workbench.startupEditor": "none",
+    "editor.renderControlCharacters": false,
+    "editor.renderLineHighlight": "none",
+    "editor.matchBrackets": "always",
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.fontAliasing": "antialiased",
+    "editor.renderWhitespace": "selection",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 38,
+    "editor.letterSpacing": 0,
+    "editor.fontFamily": "Fira code",
+    "editror.suggestFontSize": 16,
+    "editor.suggestLineHeight": 28,
+    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.lineHeight": 1.5,
+    "terminal.integrated.cursorBlinking": false,
+    "terminal.integrated.cursorStyle": "line",
+    "editor.fontLigatures":false,
+    "disableLigatures.mode": "cursor",
+    "editor.emptySelectionClipboard":true,
+    "editor.wordSeparators":"`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?",
+    "editor.quickSuggestionsDelay": 0,
+    "editor.formatOnPaste": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+
+
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#004cff",
+        "titleBar.activeBackground": "#fbff00",
+        "titleBar.activeForeground": "#000000"
+    },
+    "editor.guides.indentation": false,
+    "liveServer.settings.port": 5501
+}
